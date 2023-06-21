@@ -8,3 +8,7 @@ input,
 select {
     height: 50px;
 }
+
+input.file-input {
+    height: unset !important;
+}

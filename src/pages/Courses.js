@@ -13,29 +13,29 @@ const Courses = () => {
                 <p>Flutter with one code database to generate the three platforms IOS/Android and Web Development</p>
             </div>
             <div className="courses-cards">
-                <div className="courses-card card-1">
-                    <div className='courses-card-img'>
+                <div className="courses-card card-1  text-bounce2">
+                    <div className='courses-card-img mb-lg-2'>
                         <img src={card1} alt="card1" className='img-fluid' />
                     </div>
-                    <h3>ios development </h3>
+                    <h3 className='p-2'>ios development </h3>
                 </div>
-                <div className="courses-card  card-2">
+                <div className="courses-card  card-2 text-bounce2">
                     <div className='courses-card-img'>
                         <img src={card2} alt="card2" className='img-fluid' />
                     </div>
-                    <h3>Web Development</h3>
+                    <h3 className='p-2'>Web Development</h3>
                 </div>
-                <div className="courses-card  card-3">
+                <div className="courses-card  card-3 text-bounce2">
                     <div className='courses-card-img'>
                         <img src={card3} alt="card3" className='img-fluid' />
                     </div>
-                    <h3>android development </h3>
+                    <h3 className='p-2'>android development </h3>
                 </div>
-                <div className="courses-card  card-4">
+                <div className="courses-card  card-4 text-bounce2">
                     <div className='courses-card-img'>
                         <img src={card4} alt="card4" className='img-fluid' />
                     </div>
-                    <h3>Flutter development </h3>
+                    <h3 className='p-2'>Flutter development </h3>
                 </div>
             </div>
         </div>

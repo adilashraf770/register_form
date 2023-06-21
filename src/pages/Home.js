@@ -11,10 +11,10 @@ const Home = () => {
                 </div>
                 <div className='home-text-containe mt-4'>
                     <div className='home-text-container-head mb-3'>
-                        <h1 >LEARN <span className='h1-text'>WITH US</span> </h1>
+                        <h1 className='text-bounce '>LEARN <span className='h1-text'>WITH US</span> </h1>
                         <div className='divider' />
                     </div>
-                    <p>Join us takeonline and physical courses and achieve your learning dream</p>
+                    <p  >Join us takeonline and physical courses and achieve your learning dream</p>
                     <div className='home-cards mt-md-5 '>
                         <div className="home-card">
                             <div className="img-container-1">
